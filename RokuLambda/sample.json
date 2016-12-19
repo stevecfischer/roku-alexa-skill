@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false,
+    "application": {
+      "applicationId": "amzn1.ask.skill.41ad6914-6f50-482c-9638-2a27199d33ee"
+    },
+    "sessionId": "session1234",
+    "attributes": {},
+    "user": {
+      "userId": null
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "request5678",
+    "intent": {
+      "name": "PlayLast"
+    }
+  }
+}
